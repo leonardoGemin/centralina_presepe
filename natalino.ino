@@ -13,18 +13,18 @@
 
 //DEFINIZIONE PIN DI INPUT/OUTPUT
 
-#define alba_diss         2   //dissolvenza, VERDE
-#define giorno_diss       3   //dissolvenza, ARANCIONE
-#define tramonto_diss     4   //dissolvenza, MARRONE
-#define notte_diss        5   //dissolvenza, BLU
+#define alba_diss         3   //dissolvenza, VERDE
+#define giorno_diss       5   //dissolvenza, ARANCIONE
+#define tramonto_diss     6   //dissolvenza, MARRONE
+#define notte_diss        9   //dissolvenza, BLU
 
-#define casette          22   //sincro
-#define fuoco            23   //sincro
+#define casette          10   //sincro
+#define fuoco            11   //sincro
 
-#define temp_alba        A0   //potenziometro, VERDE
-#define temp_giorno      A1   //potenziometro, ARANCIONE
-#define temp_tramonto    A2   //potenziometro, MARRONE
-#define temp_notte       A3   //potenziometro, BLU
+#define temp_alba        A7   //potenziometro, VERDE
+#define temp_giorno      A6   //potenziometro, ARANCIONE
+#define temp_tramonto    A4   //potenziometro, MARRONE
+#define temp_notte       A5   //potenziometro, BLU
 
 
 
